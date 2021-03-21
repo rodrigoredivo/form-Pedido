@@ -17,8 +17,6 @@
 <h4 align="center">
     <br><img alt="Form Pedido" title="LandingPage" src="https://github.com/RodrigoRedivo/form-Pedido/blob/master/assets/jsonFormPedido.jpg?raw=true" width="800px" />
 </h4>
----
-
 
 <h3 align="center"> 
 	:rocket: Tecnologias
